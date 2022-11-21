@@ -61,3 +61,6 @@ TagManager:
   - name: Minimap
     uniqueID: 441554817
     locked: 0
+  - name: Player
+    uniqueID: 3255234277
+    locked: 0
